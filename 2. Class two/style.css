@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.divition {
+    padding: 20px;
+    border: 2px solid #000;
+    width: 400px;
+    margin: 24px;
+    height: 400px;
+    box-sizing: border-box;
+    border-radius: 17px 0 17px 0;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bg1 {
+    background-color: #f3f3f3;
+}
+
+.bg2 {
+    background-color: #ddd;
+}
+
+.bg3 {
+    background-color: #ccc;
+}
+
+table, td, th {
+    border: 1px solid #000;
+    padding: 9px 20px;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
