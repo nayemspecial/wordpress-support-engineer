@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap');
+
+.logo img {
+    width: 80px;
+}
+
+.header-area {
+    background-color: #f3f3f3;
+    height: 85px;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #000;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 18px;
+    display: block;
+    transition: .4s;
+}
+
+.header-button button {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 18px;
+}
+
+.menu ul li a:hover {
+    background-color: #fff;
+}
+
+/*  =====================
+    Slider CSS start Here
+    =====================
+*/
+
+.slider-area {
+    background: url('../images/slider.jpg');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.slider-wrapper {
+    padding: 100px;
+    text-align: center;
+}
+
+.slider-wrapper h1 {
+    font-size: 50px;
+    font-weight: 500;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.slider-wrapper p {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+
+button.slider-button {
+    padding: 10px 25px;
+    background: none;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-family: cursive;
+    transition: .3s;
+    margin-top: 20px;
+}
+
+button.slider-button:hover {
+    background-color: #1A355B;
+    color: #fff;
+}
+
+
+.blog-area {
+    padding: 80px 0;
+}
+
+.section-title {
+    text-align: center;
+    width: 65%;
+    margin: 0 auto;
+}
+
+.section-title h1 {
+    font-size: 45px;
+    font-weight: 500;
+    font-family: cursive;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.section-title p {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.blogs, .services {
+    display: flex;
+    justify-content: space-between;
+}
+
+.single-blog, .single-service {
+    width: 23%;
+}
+
+.single-blog img, .single-service img {
+    width: 100%;
+}
+
+.blog-meta h2 {
+    margin: 0;
+    padding: 10px 0;
+    font-family: cursive;
+}
+
+.blog-meta p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+button.blog-button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button.blog-button:hover {
+    background-color: #1A355B;
+    color: #fff;
+}
+
+
+
+
+.about-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-left {
+    width: 45%;
+}
+
+.about-right {
+    width: 45%;
+}
+
+.about-left img {
+    width: 100%;
+}
+
+.about-right h2 {
+    font-size: 45px;
+    font-family: cursive;
+    margin: 0;
+}
+
+.about-right p {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.about-area {
+    background-color: #f3f3f3;
+    padding: 100px 0;
+}
+
+.service-area {
+    padding: 80px 0;
+}
+
+
+.footer-area {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #9f9f9f;
+    padding: 30px 0;
+}
+
+.footer-top-area {
+    background-color: #e0e0e0;
+}
+
+.footer-top-wrapper {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+
+.single-footer-top h2 {
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.single-footer-top ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.single-footer-top ul li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+
+.single-footer-top ul li {
+    padding: 6px 0;
+}
+
+
+.contact-area {
+    background:url('../images/contact.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding: 90px 0;
+}
+
+.contact-wrapper form {
+    width: 500px;
+}
+
+.contact-wrapper input, .contact-wrapper textarea {
+    display: block;
+    width: 400px;
+    padding: 11px 18px;
+    margin: 10px 0px;
+    background: none;
+    border: 2px solid #000;
+    border-radius: 6px;
+}
+
+.contact-wrapper {
+    margin: 0 auto;
+    width: 425px;
+}
+
+::placeholder {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.newsletter-area {
+    background: url('../images/nwesletter.jpg');
+}
+
+
+.newsletter-area {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    position: relative;
+    z-index: 1;
+}
+
+.newsletter-wrapper h2 {
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Raleway';
+    padding: 100px;
+    text-align: center;
+}
+
+.newsletter-area::after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: "";
+    background: #000;
+    height: 100%;
+    width: 100%;
+    opacity: .6;
+    z-index: -1;
+}
+
+.newsletter-wrapper {
+    position: absolute;
+    z-index: 2;
+    color: #fff;
+    height: 100%;
+    width: 1178px;
+}
+
+.contact-wrapper h2 {
+    font-size: 36px;
+    font-weight: 500;
+    margin-left: 127px;
+}
+
+.header-area {
+    position: sticky;
+    top: 0;
+}
