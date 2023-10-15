@@ -1,4 +1,4 @@
-Certainly, here's the list with "- " added to each line
+## ভিজুয়াল স্টুডিও কোড এডিটর
 
 - ইন্ট্রোডাকশন
 - ফাইল আইকন সিলেক্ট করা
