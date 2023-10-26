@@ -1,6 +1,6 @@
 # wordpress-support-engineer
 
-### [জাভাস্ক্রিপ্ট অ্যসাইনমেন্ট সলিউশন]()
+### [জাভাস্ক্রিপ্ট অ্যসাইনমেন্ট সলিউশন](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment-solution.md)
 
 ## ওয়ার্ডপ্রেসস সাপোর্ট ইঞ্জিনিয়ার কোর্স
 
