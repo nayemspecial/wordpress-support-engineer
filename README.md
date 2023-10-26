@@ -13,7 +13,7 @@
 ### লাইভ ক্লাস ১
 ### ০৫- ১০-২০২৩ - বৃহস্পতিবার - রাত ১০:০০ PM 
 - ওয়েব ডিজাইন কি?
-- [কোড এডিটর কি?](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/code-editor.md)
+- [কোড এডিটর কি?](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/vs-code-outline.md)
 - ওয়েব ব্রাউজার কি?
 - এইচটিএমএল ফাইল ক্রিয়েট করা
 - ফাইল এক্সটেনশন শো করা
