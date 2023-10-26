@@ -1,12 +1,6 @@
 # wordpress-support-engineer
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <div>
-    <h2>Assignment 1</h2>
-  </div>
-  <div>
-    <h2>Assignment 2</h2>
-  </div>
-</div>
+
+<span> ### এসাইনমেন্ট ১ </span><span> ### এসাইনমেন্ট ২ </span>
 
 ## ওয়ার্ডপ্রেসস সাপোর্ট ইঞ্জিনিয়ার কোর্স
 
