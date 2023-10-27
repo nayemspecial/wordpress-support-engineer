@@ -1,6 +1,6 @@
 ## Solve these questions.
 
-- Problem 1: Write a function to calculate the area of a triangle.
+- Problem 1: Write a function to calculate the area of a triangle.[View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/09.max-of-five-numbers.md)
 
 - Problem 2: Write a function to convert degrees to radians.
  
