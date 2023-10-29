@@ -6,19 +6,19 @@
  
 - Problem 3: Create a function calculateFactorial that takes a number and returns its factorial. [View Answer]()
 
-- Problem 4: Create a function isPrime that takes a number as a parameter and returns true if it's a prime number, and false otherwise.
+- Problem 4: Create a function isPrime that takes a number as a parameter and returns true if it's a prime number, and false otherwise. [View Answer]()
 
-- Problem 5: Create a function mergeArrays that takes two arrays as parameters and returns a new array that merges both arrays.
+- Problem 5: Create a function mergeArrays that takes two arrays as parameters and returns a new array that merges both arrays. [View Answer]()
 
-- Problem 6: Create a function isLeapYear that takes a year as a parameter and returns "This is a leap year" if it's a leap year, and "Not Leap year" otherwise.
+- Problem 6: Create a function isLeapYear that takes a year as a parameter and returns "This is a leap year" if it's a leap year, and "Not Leap year" otherwise. [View Answer]()
 
-- Problem 7: Create a function removeDuplicates that takes an array and returns a new array with duplicates removed.
+- Problem 7: Create a function removeDuplicates that takes an array and returns a new array with duplicates removed. [View Answer]()
 
-- Problem 8: Create a function convertToCelsius that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius.
+- Problem 8: Create a function convertToCelsius that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius. [View Answer]()
 
-- Problem 9: Write a function to find the maximum of five numbers.
+- Problem 9: Write a function to find the maximum of five numbers. [View Answer]()
 
-- Problem 10: Create a function called evenOdd() that takes a string as a parameter. Now you have to give the output based on the total number of characters in your String. The output will be 'even' or 'odd'. [ Input: ‘JavaScript’ Output: even, Input: ‘Hello’ Output: odd]
+- Problem 10: Create a function called evenOdd() that takes a string as a parameter. Now you have to give the output based on the total number of characters in your String. The output will be 'even' or 'odd'. [ Input: ‘JavaScript’ Output: even, Input: ‘Hello’ Output: odd] [View Answer]()
 
 
 
