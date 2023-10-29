@@ -4,7 +4,7 @@
 
 - Problem 2: Write a function to convert degrees to radians. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/02.degree-to-redian.md)
  
-- Problem 3: Create a function calculateFactorial that takes a number and returns its factorial. [View Answer]()
+- Problem 3: Create a function calculateFactorial that takes a number and returns its factorial. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/03.calculate-factorial.md)
 
 - Problem 4: Create a function isPrime that takes a number as a parameter and returns true if it's a prime number, and false otherwise. [View Answer]()
 
