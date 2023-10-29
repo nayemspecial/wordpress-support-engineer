@@ -2,7 +2,7 @@
 
 - Problem 1: Write a function to calculate the area of a triangle. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/01.area-of-a-triangle.md)
 
-- Problem 2: Write a function to convert degrees to radians.
+- Problem 2: Write a function to convert degrees to radians. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/02.degree-to-redian.md)
  
 - Problem 3: Create a function calculateFactorial that takes a number and returns its factorial.
 
