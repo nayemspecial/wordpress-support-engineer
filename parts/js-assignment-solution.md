@@ -10,30 +10,16 @@
 
 - Problem 5: Create a function mergeArrays that takes two arrays as parameters and returns a new array that merges both arrays. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/05.merge-array.md)
 
-- Problem 6: Create a function isLeapYear that takes a year as a parameter and returns "This is a leap year" if it's a leap year, and "Not Leap year" otherwise. [View Answer]()
+- Problem 6: Create a function isLeapYear that takes a year as a parameter and returns "This is a leap year" if it's a leap year, and "Not Leap year" otherwise. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/06.is-leap-year.md)
 
-- Problem 7: Create a function removeDuplicates that takes an array and returns a new array with duplicates removed. [View Answer]()
+- Problem 7: Create a function removeDuplicates that takes an array and returns a new array with duplicates removed. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/07.remove-duplicate-array.md)
 
-- Problem 8: Create a function convertToCelsius that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius. [View Answer]()
+- Problem 8: Create a function convertToCelsius that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/08.fahrenheit-to-celcius.md)
 
-- Problem 9: Write a function to find the maximum of five numbers. [View Answer]()
+- Problem 9: Write a function to find the maximum of five numbers. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/09.max-of-five-numbers.md)
 
-- Problem 10: Create a function called evenOdd() that takes a string as a parameter. Now you have to give the output based on the total number of characters in your String. The output will be 'even' or 'odd'. [ Input: ‘JavaScript’ Output: even, Input: ‘Hello’ Output: odd] [View Answer]()
+- Problem 10: Create a function called evenOdd() that takes a string as a parameter. Now you have to give the output based on the total number of characters in your String. The output will be 'even' or 'odd'. [ Input: ‘JavaScript’ Output: even, Input: ‘Hello’ Output: odd] [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/10.even-or-odd.md)
 
-
-
-
-## Answer any 4 questions.
-
-- Problem 1. Explain the difference between 'if...else' and 'switch' statements for conditional logic.
-
-- Problem 2. What is JavaScript, and what is its primary purpose in web development?
-
-- Problem 3. Explain the difference between var, let, and const when declaring variables in JavaScript.
-
-- Problem 4. Explain the concept of "scope" in JavaScript and the difference between global and local scope.
-
-- Problem 5. What is the difference between "null" and "undefined" in JavaScript?
 
 
 
