@@ -8,7 +8,7 @@
 
 - Problem 4: Create a function isPrime that takes a number as a parameter and returns true if it's a prime number, and false otherwise. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/04.is-prime-number.md)
 
-- Problem 5: Create a function mergeArrays that takes two arrays as parameters and returns a new array that merges both arrays. [View Answer]()
+- Problem 5: Create a function mergeArrays that takes two arrays as parameters and returns a new array that merges both arrays. [View Answer](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment/05.merge-array.md)
 
 - Problem 6: Create a function isLeapYear that takes a year as a parameter and returns "This is a leap year" if it's a leap year, and "Not Leap year" otherwise. [View Answer]()
 
