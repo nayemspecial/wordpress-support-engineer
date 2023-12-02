@@ -8,7 +8,7 @@
 ## কোর্স মডিউলঃ
 ### লাইভ ক্লাস ১
 ### ০৫- ১০-২০২৩ - বৃহস্পতিবার - রাত ১০:০০ PM 
-- ওয়েব ডিজাইন কি?
+- [ওয়েব ডিজাইন কি?](https://www.youtube.com/watch?v=GMva1ooWso8)
 - [কোড এডিটর কি?](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/vs-code-outline.md)
 - ওয়েব ব্রাউজার কি?
 - এইচটিএমএল ফাইল ক্রিয়েট করা
