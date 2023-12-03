@@ -11,7 +11,7 @@
 - [ওয়েব ডিজাইন কি?](https://www.youtube.com/watch?v=GMva1ooWso8)
 - [কোড এডিটর কি?](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/vs-code-outline.md)
     - [ইন্ট্রোডাকশন](https://youtu.be/ckzETcYGJiw)
-    - ফাইল আইকন সিলেক্ট করা
+    - [ফাইল আইকন থিম সেট করা](https://youtu.be/_ME03MJ7TRo)
     - থিম পছন্দ করে সিলেক্ট করা
     - ফন্ট পছন্দ করে সিলেক্ট করা
     - ওয়ার্ড র‍্যাপ (Word Wrap) করা 
