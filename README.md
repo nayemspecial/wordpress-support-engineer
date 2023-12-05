@@ -12,8 +12,8 @@
 - [কোড এডিটর কি?](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/vs-code-outline.md)
     - [ইন্ট্রোডাকশন](https://youtu.be/ckzETcYGJiw)
     - [বিভিন্ন টাইপের ফাইলের জন্য আইকন সেট করা](https://youtu.be/_ME03MJ7TRo)
-    - [নিজের পছন্দ অনুযায়ী থিম খুজে বের করা](https://youtu.be/0SfPiyJmzO0)
-    - ফন্ট পছন্দ করে সিলেক্ট করা
+    - [নিজের পছন্দ অনুযায়ী থিম খুঁজে বের করা](https://youtu.be/0SfPiyJmzO0)
+    - [সকল প্রোগ্রামিং ফন্ট থেকে আপনার পছন্দেরটি খুঁজে বের করুন](https://youtu.be/w8QAHxMhMRk)
     - ওয়ার্ড র‍্যাপ (Word Wrap) করা 
     - কার্সর ইফেক্ট অ্যাড করা
     - মিনিম্যাপ সেট করা
