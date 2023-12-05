@@ -14,7 +14,7 @@
     - [বিভিন্ন টাইপের ফাইলের জন্য আইকন সেট করা](https://youtu.be/_ME03MJ7TRo)
     - [নিজের পছন্দ অনুযায়ী থিম খুঁজে বের করা](https://youtu.be/0SfPiyJmzO0)
     - [সকল প্রোগ্রামিং ফন্ট থেকে আপনার পছন্দেরটি খুঁজে বের করুন](https://youtu.be/w8QAHxMhMRk)
-    - ওয়ার্ড র‍্যাপ (Word Wrap) করা 
+    - [ওয়ার্ড র‍্যাপ (Word Wrap) করা](https://www.youtube.com/watch?v=XBHoo6dSxig)
     - [কার্সর ইফেক্ট অ্যাড করা](https://youtu.be/6c0oYkwdLMM)
     - মিনিম্যাপ সেট করা
     - অতি প্রয়োজনীয় কিছু কিবোর্ড শর্টকার্ট
