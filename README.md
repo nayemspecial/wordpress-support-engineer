@@ -16,7 +16,7 @@
     - [সকল প্রোগ্রামিং ফন্ট থেকে আপনার পছন্দেরটি খুঁজে বের করুন](https://youtu.be/w8QAHxMhMRk)
     - [ওয়ার্ড র‍্যাপ (Word Wrap) করা](https://www.youtube.com/watch?v=XBHoo6dSxig)
     - [কার্সর ইফেক্ট অ্যাড করা](https://youtu.be/6c0oYkwdLMM)
-    - মিনিম্যাপ সেট করা
+    - [মিনিম্যাপ এর ব্যবহার](https://www.youtube.com/watch?v=_gvgG0DKDHo)
     - অতি প্রয়োজনীয় কিছু কিবোর্ড শর্টকার্ট
     - নতুন ট্যাবে ফাইল ওপেন করা
     - ফাইল স্প্লিট (Split) করা 
