@@ -18,7 +18,7 @@
     - [কার্সর ইফেক্ট অ্যাড করা](https://youtu.be/6c0oYkwdLMM)
     - [মিনিম্যাপ এর ব্যবহার](https://www.youtube.com/watch?v=_gvgG0DKDHo)
     - [নতুন ট্যাবে ফাইল ওপেন করা](https://youtu.be/B62HoCYbjqU)
-    - ফাইল স্প্লিট (Split) করা 
+    - [ফাইল স্প্লিট (Split) করা](https://youtu.be/2ZmzLatOoG0)
     - কমেন্ট করা (সিঙ্গেল লাইন এবং মাল্টিপল লাইন)
     - একটি লাইনকে উপরে নিচে মুভ করা
     - মাউস এর মাধ্যমে জুম করা
