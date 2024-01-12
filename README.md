@@ -46,6 +46,7 @@
 - [ইনলাইন এলিমেন্ট এবং ব্লক এলিমেন্ট](https://youtu.be/s6QEwfYnnpk)
 - [নেস্টেড এলিমেন্ট](https://youtu.be/GdCIs4ilh90)
 - [RGB, HEX, HSL কালার কোড](https://youtu.be/ywjXHCLZxls)
+- [কালার পিকার- জুম করে কালার কোড কপি করা।](https://youtu.be/2oh26QXGRVk)
 - ইমেজ ইনসার্ট করা
 - বিভিন্ন ফোল্ডার থেকে ইমেজ অ্যাড করা
 - অনলাইন থেকে ইমেজ অ্যাড করা
