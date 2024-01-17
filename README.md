@@ -51,7 +51,7 @@
 - [ইমেজ ইনসার্ট করা](https://youtu.be/4EvGeykikxs)
 - [বিভিন্ন ফোল্ডার থেকে ইমেজ অ্যাড করা](https://youtu.be/Mdcd7WFNrOg)
 - [অনলাইন থেকে ইমেজ অ্যাড করা](https://youtu.be/eZwIez3_PRg)
-- টেক্সট লিংক 
+- [টেক্সট লিংক](https://youtu.be/xjZ0RwqtyNw)
 - ইমেজ লিংক
 - এইচটিএমএল লিস্ট
 - অর্ডার লিস্ট
