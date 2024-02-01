@@ -81,6 +81,8 @@
 - [ক্লাস এবং আইডি এট্রিবিউট এর পার্থক্য](https://youtu.be/GT2GKqoUEnw)
 - [কিভাবে Emmet ইউজ করে দ্রুত কোড করতে হয়](https://youtu.be/Hf7rBxcivj4)
 - [ওয়েবসাইটে টেবিল তৈরি করা](https://youtu.be/A4lpcE0ifyw)
+- [প্রোজেক্ট ফোল্ডার তৈরি করা](https://youtu.be/jE_7q8uhAt4)
+- [সিএসএস টেক্সট অ্যান্ড ফন্ট প্রোপার্টি](https://youtu.be/IdZZ4EuLcFU)
     - রো স্প্যান,
     - কলাম স্প্যান,
     - সেল প্যাডিং
