@@ -33,28 +33,28 @@
     - ওপেনকৃত ফাইলের মধ্যে যেভাবে স্ক্রলিং করবেন [ভিডিও](https://youtu.be/RvSgjyyEI3I)
     - নিজের মত করে কিবোর্ড শর্টকার্ট সেট করা। [ভিডিও](https://youtu.be/Y-cBIrhmqhI)
     - একই রকম ওয়ার্ড সিলেক্ট করা - সিলেক্ট অল ম্যচেস ওয়ার্ড [ভিডিও](https://youtu.be/pjzx5I-4UZg)
-- [ওয়েব ব্রাউজার কি?](https://youtu.be/u1Mb2y--BTM)
-- [ফাইল এক্সটেনশন শো করা](https://youtu.be/UaSbm6aHA4M)
-- [এইচটিএমএল ফাইল ক্রিয়েট করা](https://youtu.be/KuHD8YdMrnQ)
-- [এইটটিএমএল সিনট্যাক্স ও ট্যাগ](https://youtu.be/YH7Egt8mD3I)
-- [এইটটিএমএল পেজ স্ট্রাকচার](https://youtu.be/tuFfLzX2mMQ)
-- [পোস্টের হেডিং এবং ডেসক্রিপশন তৈরি করা](https://youtu.be/GTf5hx9teaQ)
-- [এইটটিএমএল এট্রিবিউট](https://youtu.be/ruc1WatoVis)
-- [এইচটিএমএল এলিমেন্ট](https://youtu.be/gla_JZEWtF4)
-- [এইচটিএমএল টেক্স ফর্ম্যাটিং](https://youtu.be/d-bo6JaehsU) 
-- [ইন্সপেক্ট এলিমেন্ট (ব্রাউজার)](https://youtu.be/mUs090XZzLw)
-- [ইনলাইন এলিমেন্ট এবং ব্লক এলিমেন্ট](https://youtu.be/s6QEwfYnnpk)
-- [নেস্টেড এলিমেন্ট](https://youtu.be/GdCIs4ilh90)
-- [RGB, HEX, HSL কালার কোড](https://youtu.be/ywjXHCLZxls)
-- [কালার পিকার- জুম করে কালার কোড কপি করা।](https://youtu.be/2oh26QXGRVk)
-- [প্রয়োজনীয় সিম্বল গুলোর ব্যবহার](https://youtu.be/X-uhSYgpKF4)
-- [ইমেজ ইনসার্ট করা](https://youtu.be/4EvGeykikxs)
-- [বিভিন্ন ফোল্ডার থেকে ইমেজ অ্যাড করা](https://youtu.be/Mdcd7WFNrOg)
-- [অনলাইন থেকে ইমেজ অ্যাড করা](https://youtu.be/eZwIez3_PRg)
-- [টেক্সট লিংক](https://youtu.be/xjZ0RwqtyNw)
-- [ইমেজ লিংক](https://youtu.be/DE8eA-_LINc)
-- [এইচটিএমএল লিস্ট - অর্ডার লিস্ট, আন-অর্ডার লিস্ট](https://youtu.be/RJcHI5rt_00)
-- [নেস্টেড লিস্ট](https://youtu.be/LByRNVEmtwA)
+- ওয়েব ব্রাউজার কি? [ভিডিও](https://youtu.be/u1Mb2y--BTM)
+- ফাইল এক্সটেনশন শো করা [ভিডিও](https://youtu.be/UaSbm6aHA4M)
+- এইচটিএমএল ফাইল ক্রিয়েট করা [ভিডিও](https://youtu.be/KuHD8YdMrnQ)
+- এইটটিএমএল সিনট্যাক্স ও ট্যাগ [ভিডিও](https://youtu.be/YH7Egt8mD3I)
+- এইটটিএমএল পেজ স্ট্রাকচার [ভিডিও](https://youtu.be/tuFfLzX2mMQ)
+- পোস্টের হেডিং এবং ডেসক্রিপশন তৈরি করা [ভিডিও](https://youtu.be/GTf5hx9teaQ)
+- এইটটিএমএল এট্রিবিউট [ভিডিও](https://youtu.be/ruc1WatoVis)
+- এইচটিএমএল এলিমেন্ট [ভিডিও](https://youtu.be/gla_JZEWtF4)
+- এইচটিএমএল টেক্স ফর্ম্যাটিং [ভিডিও](https://youtu.be/d-bo6JaehsU) 
+- ইন্সপেক্ট এলিমেন্ট (ব্রাউজার) [ভিডিও](https://youtu.be/mUs090XZzLw)
+- ইনলাইন এলিমেন্ট এবং ব্লক এলিমেন্ট [ভিডিও](https://youtu.be/s6QEwfYnnpk)
+- নেস্টেড এলিমেন্ট [ভিডিও](https://youtu.be/GdCIs4ilh90)
+- RGB, HEX, HSL কালার কোড [ভিডিও](https://youtu.be/ywjXHCLZxls)
+- কালার পিকার- জুম করে কালার কোড কপি করা। [ভিডিও](https://youtu.be/2oh26QXGRVk)
+- প্রয়োজনীয় সিম্বল গুলোর ব্যবহার [ভিডিও](https://youtu.be/X-uhSYgpKF4)
+- ইমেজ ইনসার্ট করা [ভিডিও](https://youtu.be/4EvGeykikxs)
+- বিভিন্ন ফোল্ডার থেকে ইমেজ অ্যাড করা [ভিডিও](https://youtu.be/Mdcd7WFNrOg)
+- অনলাইন থেকে ইমেজ অ্যাড করা [ভিদিও](https://youtu.be/eZwIez3_PRg)
+- টেক্সট লিংক [ভিডিও](https://youtu.be/xjZ0RwqtyNw)
+- ইমেজ লিংক [ভিডিও](https://youtu.be/DE8eA-_LINc)
+- এইচটিএমএল লিস্ট - অর্ডার লিস্ট, আন-অর্ডার লিস্ট [ভিডিও](https://youtu.be/RJcHI5rt_00)
+- নেস্টেড লিস্ট [ভিডিও](https://youtu.be/LByRNVEmtwA)
 ### হোম ওয়ার্কঃ
   - ব্লক এলিমেন্ট এবং ইনলাইন এলিমেন্ট 
   - হেডিং ট্যাগ এর পিক্সেল বের করতে হবে।
@@ -63,30 +63,30 @@
 
 ### লাইভ ক্লাস ২
 ### ০৬- ১০-২০২৩ - শুক্রবার - রাত ৯:৩০ PM
-- [ইন্ট্রোডাকশন টু সিএসএস](https://youtu.be/P-5VY7_c9Es)
-- [সিএসএস সিনট্যাক্স](https://youtu.be/CG_FY7Ox15w)
-- [বিভিন্নভাবে সিএসএস ফাইল তৈরি করা](https://youtu.be/P9g5vjXNyQE)
-- [সিএসএস কত প্রকার? ( ইনলাইন, ইন্টারনাল ও এক্সটার্নাল সিএসএস )](https://youtu.be/rzGiwTWZ1Uo) 
-- [তিন প্রকার সিএসএস এর মধ্যে পার্থক্য](https://youtu.be/LpcKK_7J-ME)
+- ইন্ট্রোডাকশন টু সিএসএস [ভিডিও](https://youtu.be/P-5VY7_c9Es)
+- সিএসএস সিনট্যাক্স [ভিডিও](https://youtu.be/CG_FY7Ox15w)
+- বিভিন্নভাবে সিএসএস ফাইল তৈরি করা [ভিডিও](https://youtu.be/P9g5vjXNyQE)
+- সিএসএস কত প্রকার? ( ইনলাইন, ইন্টারনাল ও এক্সটার্নাল সিএসএস ) [ভিডিও](https://youtu.be/rzGiwTWZ1Uo) 
+- তিন প্রকার সিএসএস এর মধ্যে পার্থক্য [ভিডিও](https://youtu.be/LpcKK_7J-ME)
     - কোন ক্ষেত্রে কোন সিএসএস ব্যবহার করা হয়
-- [ডিভ ট্যাগ এর ব্যাবহার](https://youtu.be/2gCSbYGOwXw)
-- [ক্লাস এবং আইডি এট্রিবিউট এর ব্যাবহার](https://youtu.be/P0aekiPGodI)
-- [সিএসএস সিলেক্টর](https://youtu.be/QHSQyGtIfmM)
-- [সিএসএস বক্স মডেল](https://youtu.be/Rlunejnra64)
+- ডিভ ট্যাগ এর ব্যাবহার [ভিডিও](https://youtu.be/2gCSbYGOwXw)
+- ক্লাস এবং আইডি এট্রিবিউট এর ব্যাবহার [ভিডিও](https://youtu.be/P0aekiPGodI)
+- সিএসএস সিলেক্টর [ভিডিও](https://youtu.be/QHSQyGtIfmM)
+- সিএসএস বক্স মডেল [ভিডিও](https://youtu.be/Rlunejnra64)
     - কন্টেন্ট ( উইথ, হাইট, কন্টেন্ট )
     - সিএসএস প্যাডিং সম্পর্কে বিস্তারিত আলোচনা
     - কিভাবে বর্ডার এড করতে হয়
     - সিএসএস মার্জিন সম্পর্কে বিস্তারিত আলোচনা
     - বক্স সাইজিং বর্ডার বক্স
-- [ক্লাস এবং আইডি এট্রিবিউট এর পার্থক্য](https://youtu.be/GT2GKqoUEnw)
-- [কিভাবে Emmet ইউজ করে দ্রুত কোড করতে হয়](https://youtu.be/Hf7rBxcivj4)
-- [ওয়েবসাইটে টেবিল তৈরি করা](https://youtu.be/A4lpcE0ifyw)
+- ক্লাস এবং আইডি এট্রিবিউট এর পার্থক্য [ভিডিও](https://youtu.be/GT2GKqoUEnw)
+- কিভাবে Emmet ইউজ করে দ্রুত কোড করতে হয় [ভিডিও](https://youtu.be/Hf7rBxcivj4)
+- ওয়েবসাইটে টেবিল তৈরি করা [ভিডিও](https://youtu.be/A4lpcE0ifyw)
     - রো স্প্যান,
     - কলাম স্প্যান,
     - সেল প্যাডিং
-- [প্রোজেক্ট ফোল্ডার তৈরি করা](https://youtu.be/jE_7q8uhAt4)
-- [সিএসএস টেক্সট অ্যান্ড ফন্ট প্রোপার্টি](https://youtu.be/IdZZ4EuLcFU)
-- [কিভাবে ব্যাকগ্রাউন্ড ইমেজ অ্যাড করতে হয়](https://youtu.be/CSrJrIitvHU)
+- প্রোজেক্ট ফোল্ডার তৈরি করা [ভিডিও](https://youtu.be/jE_7q8uhAt4)
+- সিএসএস টেক্সট অ্যান্ড ফন্ট প্রোপার্টি [ভিডিও](https://youtu.be/IdZZ4EuLcFU)
+- কিভাবে ব্যাকগ্রাউন্ড ইমেজ অ্যাড করতে হয় [ভিডিও](https://youtu.be/CSrJrIitvHU)
 
 
 ### হোম ওয়ার্কঃ
@@ -99,14 +99,14 @@
 
 ### লাইভ ক্লাস ৩
 ### ০৭- ১০-২০২৩ - শনিবার - ১০:১৫ PM
-- [ব্যাকগ্রাউন্ড প্রপার্টি](https://youtu.be/LWDVR9cQAKA)
-- [গুগল ফন্টের এর ব্যবহার](https://youtu.be/Ainp3WfQN8Q)
+- ব্যাকগ্রাউন্ড প্রপার্টি [ভিডিও](https://youtu.be/LWDVR9cQAKA)
+- গুগল ফন্টের এর ব্যবহার [ভিডিও](https://youtu.be/Ainp3WfQN8Q)
     - পপুলার গুগল ফন্টস
     - নতুন গুগল ফন্তস
     - ট্রেন্ডিং গুগল ফন্টস
     - বাংলা গুগল ফন্টস
     - হ্যান্ড রাইটিং গুগল ফন্টস
-- [ডিসপ্লে প্রপার্টি এর ব্যবহার](https://youtu.be/28YX5s5-1qQ)
+- ডিসপ্লে প্রপার্টি এর ব্যবহার [ভিডিও](https://youtu.be/28YX5s5-1qQ)
     - ইনলাইন
     - ব্লক
     - ইনলাইন-ব্লক
