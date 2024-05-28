@@ -289,4 +289,198 @@
 - বুক রিভিউ প্লাগিন আপডেট করুন এবং প্রতিটি পোস্টের জন্য রেটিং যোগ করুন।
 - ট্রান্সিয়েন্টস এপিআই এবং সেটিংস এপিআই অধ্যয়ন করুন।
 
-এই কোর্সের মাধ্যমে আপনি ওয়ার্ডপ্রেস প্লাগিন ডেভেলপমেন্টের বিভিন্ন দিক সম্পর্কে জ্ঞান অর্জন করবেন এবং প্রকল্পগুলির মাধ্যমে বাস্তব অভিজ্ঞতা লাভ করবেন【3†source】।
+এই কোর্সের মাধ্যমে আপনি ওয়ার্ডপ্রেস প্লাগিন ডেভেলপমেন্টের বিভিন্ন দিক সম্পর্কে জ্ঞান অর্জন করবেন এবং প্রকল্পগুলির মাধ্যমে বাস্তব অভিজ্ঞতা লাভ করবেন।
+
+### Course Outline for WordPress Plugin Development
+
+#### Introduction
+1. **What is WordPress**
+2. **Understanding Open Source**
+3. **The History of WordPress**
+4. **Installing WordPress**
+5. **Inside WordPress Admin**
+6. **Setting up Development Environment**
+7. **Git and SVN**
+8. **Setting up your Terminal**
+9. **Setting up an Editor or IDE**
+
+#### Getting Started with WordPress Development
+1. **How WordPress Works**
+2. **Database Schema**
+3. **Template Hierarchy**
+
+#### Plugin Development
+1. **Introduction to Plugin Development**
+2. **Structuring a Plugin**
+3. **Creating an Admin Menu Page**
+
+#### Coding Standards and Best Practices
+1. **WordPress Coding Standards**
+2. **PHP Codesniffer**
+3. **PHP CS Fixer**
+
+#### Internationalization (i18n)
+1. **Study Internationalization**
+2. **Assignment: Edit previously created plugins to implement i18n.**
+
+#### Plugin Security
+1. **Sanitizing Data**
+2. **Validating Data**
+3. **Escaping Data**
+
+#### Accessing Posts and Categories
+1. **Study WP_Query for accessing existing posts**
+2. **Learn functions: get_post(), get_posts(), query_posts()**
+3. **Study WP_Term_Query for accessing categories**
+4. **Learn functions: get_term(), get_terms(), get_term_by()**
+
+#### Plugin API (Hooks)
+1. **Study Action and Filter Hooks**
+2. **Traverse available Action and Filter Hooks**
+3. **Study Custom Hooks**
+
+#### Assignments
+1. **Posts View Plugin**
+    - Display view count for each post.
+    - Add filter hook for post count values.
+2. **Posts Email Notification Plugin**
+    - Notify admin via email upon new post publication.
+    - Add filter hook to send notifications to multiple users.
+    - Modify post title using a filter.
+3. **Vertical Button Plugin**
+    - Add a vertical button on the frontend.
+    - Change button text label and add help description using custom hooks.
+4. **Add SEO Meta Information Plugin**
+
+#### Shortcodes API
+1. **Study and Create Shortcodes**
+
+#### Assignments
+1. **Contact Form Plugin**
+    - Create a contact form using shortcodes.
+    - Validate form data and send a formatted email to admin.
+
+#### Managing Post Metadata
+1. **Study Post Metadata**
+2. **Learn how to add custom metaboxes**
+
+#### Assignments
+1. **Post Excerpt Plugin**
+    - Add a metabox for post excerpts.
+    - Create a shortcode to display the latest post excerpts.
+2. **Edit Posts View Plugin**
+    - Create a shortcode to display post titles with view counts.
+
+#### Custom Post Types (CPT)
+1. **Study Custom Post Types**
+
+#### Assignments
+1. **Book Review Plugin**
+    - Register a custom post type "Books."
+    - Add custom metaboxes for book information.
+
+#### Custom Taxonomies
+1. **Study Custom Taxonomies**
+
+#### Assignments
+1. **Edit Book Review Plugin**
+    - Add custom taxonomy related to books.
+    - Create a shortcode for searching book reviews via meta fields.
+
+#### Database API
+1. **Study $wpdb for database access**
+2. **Learn Option API**
+3. **Perform CRUD Operations**
+4. **Learn advanced MySQL operations**
+
+#### JavaScript, Ajax, & jQuery
+1. **Enqueue Scripts/Styles**
+2. **Handle Ajax Requests**
+
+#### Assignments
+1. **Update Book Review Plugin**
+    - Add a rating system using jQuery and Ajax.
+2. **Update Contact Form Plugin**
+    - Add form validation and handle form submission via Ajax.
+
+#### Transients API
+1. **Study Transients API/Object Cache**
+
+#### Settings API
+1. **Study Settings API**
+
+#### Assignments
+1. **Featured Posts Plugin**
+    - Add a settings page for featured posts.
+    - Create a shortcode for displaying featured posts.
+
+#### HTTP API
+1. **Learn about HTTP API for data fetching**
+
+#### Assignments
+1. **Job Search Plugin**
+    - Create a plugin to search for jobs using GitHub Jobs API.
+    - Render job listings and single job descriptions.
+
+#### Dashboard Widgets API
+1. **Study Dashboard Widget API**
+
+#### Assignments
+1. **Recent Posts Plugin**
+    - Add a dashboard widget to display recent posts.
+2. **Cat Facts Plugin**
+    - Add a dashboard widget to display cat facts.
+
+#### Theme Widgets API
+1. **Study Theme Widget API**
+
+#### Assignments
+1. **Related Post Widget**
+    - Display related posts in the sidebar.
+2. **Subscription Form Plugin**
+    - Create a subscription form to add users to a MailChimp list.
+
+#### Users
+1. **Study User Management in WordPress**
+2. **Study Roles & Capabilities**
+
+#### Assignments
+1. **Author Box Plugin**
+    - Add user meta for social links and bio.
+    - Display author description box under posts.
+2. **Customer Registration Form**
+    - Create a registration form with role selection and capabilities.
+
+#### Rewrite API
+1. **Study Rewrite API**
+
+#### Assignments
+1. **Update Book Review Plugin**
+    - Rewrite URLs for single review pages.
+
+#### REST API
+1. **Study REST API**
+2. **Study Default REST API Endpoints**
+3. **Learn to Extend REST API**
+
+#### Assignments
+1. **Create Full CRUD API**
+    - Implement GET, POST, PUT, DELETE operations.
+
+#### Metadata API
+1. **Study Metadata API**
+
+#### Assignments
+1. **Student Info Plugin**
+    - Create a student information table and manage metadata.
+
+#### Filesystem API
+1. **Study Filesystem API**
+
+#### Cron
+1. **Study WordPress Cron for scheduled tasks**
+2. **Learn Background Processing**
+
+#### Assignments
+1. **Modify Posts Email Notification Plugin**
+    - Schedule a daily summary email with post information.
