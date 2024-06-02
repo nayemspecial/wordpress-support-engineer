@@ -1,4 +1,16 @@
 # wordpress-support-engineer
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://www.w3schools.com/html/" style="text-decoration: none;">
+        <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px;">HTML</button>
+    </a>
+    <a href="https://www.w3schools.com/css/" style="text-decoration: none;">
+        <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px;">CSS</button>
+    </a>
+    <a href="https://www.w3schools.com/js/" style="text-decoration: none;">
+        <button style="padding: 10px 20px; background-color: #ffc107; color: black; border: none; border-radius: 5px;">JavaScript</button>
+    </a>
+</div>
+
 
 ### [জাভাস্ক্রিপ্ট অ্যসাইনমেন্ট সলিউশন](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment-solution.md)
 
