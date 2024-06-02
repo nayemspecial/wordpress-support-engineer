@@ -1,21 +1,7 @@
-# wordpress-support-engineer
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://www.w3schools.com/html/" style="text-decoration: none;">
-        <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px;">HTML</button>
-    </a>
-    <a href="https://www.w3schools.com/css/" style="text-decoration: none;">
-        <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px;">CSS</button>
-    </a>
-    <a href="https://www.w3schools.com/js/" style="text-decoration: none;">
-        <button style="padding: 10px 20px; background-color: #ffc107; color: black; border: none; border-radius: 5px;">JavaScript</button>
-    </a>
-</div>
-
-
-### [জাভাস্ক্রিপ্ট অ্যসাইনমেন্ট সলিউশন](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/js-assignment-solution.md)
-
 ## ওয়ার্ডপ্রেসস সাপোর্ট ইঞ্জিনিয়ার কোর্স
-এটি কোর্সের বেসিক ওয়েব ডিজাইন ক্লাসের সোর্স ফাইলগুলো এখানে আপলোড করা হয়েছে। আপনারা এখান থেকে ডাউনলোড করে নিতে পারেন।
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/HTML/html-course-outline.md)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/css/css-course-outline.md)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)]()
 
 ## কোর্স মডিউলঃ
 ### লাইভ ক্লাস ১
