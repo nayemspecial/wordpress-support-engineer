@@ -1,1 +1,16 @@
-
+- https://sentrysecuritybd.com/
+- https://www.deelko.com/
+- https://decorx.shop/
+- https://4emus.com/
+- https://www.artsoftit.com/ - Laravel + Vue.js
+- https://technext.it/
+- https://technuxt.com/career/
+- https://www.coder71.com/
+- https://websolutionus.com/
+- https://allitbd.com/
+- https://aloronit.com/
+- https://hamkoict.com.bd/
+- https://bdcalling.com/
+- https://bdcalling.com/career/
+- https://lomeyo.com/
+- https://medinova.com.bd/
