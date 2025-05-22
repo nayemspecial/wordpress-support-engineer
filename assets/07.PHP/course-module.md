@@ -1,0 +1,167 @@
+- [ ] **PHP Basics**
+  - [ ] Syntax
+  - [ ] Variables
+  - [ ] Constants
+  - [ ] Data Types
+    - [ ] Scalar Types
+      - [ ] Integers
+      - [ ] Floats
+      - [ ] Strings
+      - [ ] Booleans
+    - [ ] Compound Types
+      - [ ] Arrays
+      - [ ] Objects
+    - [ ] Special Types
+      - [ ] NULL
+      - [ ] Resources
+  - [ ] Operators
+    - [ ] Arithmetic
+    - [ ] Assignment
+    - [ ] Comparison
+    - [ ] Logical
+    - [ ] Increment/Decrement
+    - [ ] String
+    - [ ] Array
+    - [ ] Spaceship
+    - [ ] Null Coalescing
+    - [ ] Ternary
+  - [ ] Control Structures
+    - [ ] Conditional Statements
+      - [ ] if/else
+      - [ ] switch
+    - [ ] Loops
+      - [ ] for
+      - [ ] while
+      - [ ] do-while
+      - [ ] foreach
+    - [ ] Break/Continue
+  - [ ] Functions
+    - [ ] Defining Functions
+    - [ ] Function Parameters
+    - [ ] Return Values
+    - [ ] Variable Scope
+    - [ ] Anonymous Functions
+    - [ ] Arrow Functions
+    - [ ] Callbacks
+    - [ ] Variadic Functions
+    - [ ] Named Arguments
+  - [ ] Error Handling
+    - [ ] Try/Catch/Finally
+    - [ ] Exception Handling
+    - [ ] Error Reporting
+    - [ ] Custom Exceptions
+  - [ ] Namespaces
+    - [ ] Defining Namespaces
+    - [ ] Using Namespaces
+    - [ ] Aliasing/Importing
+  - [ ] Composer (Dependency Manager)
+    - [ ] Installation
+    - [ ] Autoloading
+    - [ ] Packages
+    - [ ] Composer.json
+    - [ ] Version Constraints
+
+- [ ] **Object-Oriented Programming (OOP)**
+  - [ ] Classes & Objects
+  - [ ] Properties & Methods
+  - [ ] Constructor & Destructor
+  - [ ] Visibility (Public/Private/Protected)
+  - [ ] Inheritance
+  - [ ] Abstract Classes & Methods
+  - [ ] Interfaces
+  - [ ] Traits
+  - [ ] Static Properties & Methods
+  - [ ] Magic Methods
+  - [ ] Type Hinting
+  - [ ] Object Cloning
+  - [ ] Late Static Binding
+  - [ ] Anonymous Classes
+
+- [ ] **Advanced PHP Concepts**
+  - [ ] Generators
+  - [ ] References
+  - [ ] Variable Variables
+  - [ ] Predefined Variables
+  - [ ] File Handling
+    - [ ] Reading/Writing Files
+    - [ ] File Uploads
+  - [ ] Sessions & Cookies
+  - [ ] Headers & Redirects
+  - [ ] Output Buffering
+  - [ ] Date & Time
+  - [ ] Regular Expressions
+  - [ ] Multibyte Strings
+  - [ ] PHP CLI
+  - [ ] PHP Configuration (php.ini)
+
+- [ ] **Security**
+  - [ ] SQL Injection
+  - [ ] XSS (Cross-Site Scripting)
+  - [ ] CSRF (Cross-Site Request Forgery)
+  - [ ] Password Hashing
+  - [ ] Data Validation & Sanitization
+  - [ ] Secure Session Handling
+  - [ ] HTTPS & SSL/TLS
+  - [ ] CORS (Cross-Origin Resource Sharing)
+  - [ ] Security Headers
+
+- [ ] **Databases & ORMs**
+  - [ ] MySQLi
+  - [ ] PDO (PHP Data Objects)
+  - [ ] Prepared Statements
+  - [ ] Transactions
+  - [ ] ORMs
+    - [ ] Eloquent (Laravel)
+    - [ ] Doctrine
+    - [ ] Propel
+
+- [ ] **APIs**
+  - [ ] RESTful APIs
+  - [ ] JSON Handling (json_encode/json_decode)
+  - [ ] Authentication (JWT, OAuth)
+  - [ ] API Rate Limiting
+  - [ ] GraphQL (with PHP)
+
+- [ ] **Testing**
+  - [ ] Unit Testing (PHPUnit)
+  - [ ] Test-Driven Development (TDD)
+  - [ ] Mocking
+  - [ ] Integration Testing
+
+- [ ] **Performance Optimization**
+  - [ ] OpCode Caching (OPcache)
+  - [ ] Profiling (Xdebug, Blackfire)
+  - [ ] Database Optimization
+  - [ ] Lazy Loading
+  - [ ] Caching Strategies
+    - [ ] Memcached
+    - [ ] Redis
+
+- [ ] **Frameworks**
+  - [ ] Laravel
+  - [ ] Symfony
+  - [ ] CodeIgniter
+  - [ ] Laminas (Zend Framework)
+  - [ ] Slim
+  - [ ] Yii
+  - [ ] Phalcon
+
+- [ ] **DevOps & Deployment**
+  - [ ] Docker
+  - [ ] CI/CD Pipelines
+  - [ ] Server Management (Apache/Nginx)
+  - [ ] Cloud Deployment (AWS, Azure, GCP)
+  - [ ] Monitoring & Logging
+
+- [ ] **Modern PHP Features**
+  - [ ] PHP 8.x Features
+    - [ ] Attributes
+    - [ ] Named Arguments
+    - [ ] Constructor Property Promotion
+    - [ ] Union Types
+    - [ ] Match Expression
+    - [ ] Fibers
+    - [ ] Readonly Properties
+    - [ ] Enums
+  - [ ] JIT Compilation
+  - [ ] FFI (Foreign Function Interface)
