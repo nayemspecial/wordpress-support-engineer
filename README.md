@@ -1,6 +1,6 @@
 ## ওয়ার্ডপ্রেসস সাপোর্ট ইঞ্জিনিয়ার কোর্স
-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/HTML/html-course-outline.md)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/css/css-course-outline.md)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/HTML/html-course-outline.md)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/css/css-course-outline.md)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)]()
 
 ## কোর্স মডিউলঃ
@@ -186,6 +186,7 @@
 - ড্রপডাউন মেনু তৈরি
 - বাটনে ইফেক্ট অ্যাড করা
 - ড্রপডাউন মেনুতে ইফেক্ট দেয়া
+- ব্লার্ড ব্যাকগ্রাউন্ড [ভিডিও](https://www.youtube.com/watch?v=N8NBCmlhLUk&t=27s)
 
 ### হোম ওয়ার্কঃ
   - সর্বনিম্ন ৬ সেকশনের একটি পোর্টফলিও ওয়েবসাইট ডিজাইন করতে হবে।
