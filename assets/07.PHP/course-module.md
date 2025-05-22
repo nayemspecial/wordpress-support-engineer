@@ -1,167 +1,102 @@
-- [ ] **PHP Basics**
-  - [ ] Syntax
-  - [ ] Variables
-  - [ ] Constants
-  - [ ] Data Types
-    - [ ] Scalar Types
-      - [ ] Integers
-      - [ ] Floats
-      - [ ] Strings
-      - [ ] Booleans
-    - [ ] Compound Types
-      - [ ] Arrays
-      - [ ] Objects
-    - [ ] Special Types
-      - [ ] NULL
-      - [ ] Resources
-  - [ ] Operators
-    - [ ] Arithmetic
-    - [ ] Assignment
-    - [ ] Comparison
-    - [ ] Logical
-    - [ ] Increment/Decrement
-    - [ ] String
-    - [ ] Array
-    - [ ] Spaceship
-    - [ ] Null Coalescing
-    - [ ] Ternary
-  - [ ] Control Structures
-    - [ ] Conditional Statements
-      - [ ] if/else
-      - [ ] switch
-    - [ ] Loops
-      - [ ] for
-      - [ ] while
-      - [ ] do-while
-      - [ ] foreach
-    - [ ] Break/Continue
-  - [ ] Functions
-    - [ ] Defining Functions
-    - [ ] Function Parameters
-    - [ ] Return Values
-    - [ ] Variable Scope
-    - [ ] Anonymous Functions
-    - [ ] Arrow Functions
-    - [ ] Callbacks
-    - [ ] Variadic Functions
-    - [ ] Named Arguments
-  - [ ] Error Handling
-    - [ ] Try/Catch/Finally
-    - [ ] Exception Handling
-    - [ ] Error Reporting
-    - [ ] Custom Exceptions
-  - [ ] Namespaces
-    - [ ] Defining Namespaces
-    - [ ] Using Namespaces
-    - [ ] Aliasing/Importing
-  - [ ] Composer (Dependency Manager)
-    - [ ] Installation
-    - [ ] Autoloading
-    - [ ] Packages
-    - [ ] Composer.json
-    - [ ] Version Constraints
+- [ ] **PHP পরিচিতি**
+  - [ ] PHP কি?
+  - [ ] PHP এর ইতিহাস ও বিবর্তন
+  - [ ] PHP এর বিভিন্ন ভার্সন ও ফিচার
 
-- [ ] **Object-Oriented Programming (OOP)**
-  - [ ] Classes & Objects
-  - [ ] Properties & Methods
-  - [ ] Constructor & Destructor
-  - [ ] Visibility (Public/Private/Protected)
-  - [ ] Inheritance
-  - [ ] Abstract Classes & Methods
-  - [ ] Interfaces
-  - [ ] Traits
-  - [ ] Static Properties & Methods
-  - [ ] Magic Methods
-  - [ ] Type Hinting
-  - [ ] Object Cloning
-  - [ ] Late Static Binding
-  - [ ] Anonymous Classes
+- [ ] **ডেভেলপমেন্ট এনভায়রনমেন্ট সেটআপ**
+  - [ ] PHP ইন্সটলেশন
+    - [ ] WAMP (Windows)
+    - [ ] XAMPP (Cross-platform)
+    - [ ] MAMP (Mac)
+    - [ ] LAMP (Linux)
+  - [ ] লোকাল সার্ভার কনফিগারেশন
 
-- [ ] **Advanced PHP Concepts**
-  - [ ] Generators
-  - [ ] References
-  - [ ] Variable Variables
-  - [ ] Predefined Variables
-  - [ ] File Handling
-    - [ ] Reading/Writing Files
-    - [ ] File Uploads
-  - [ ] Sessions & Cookies
-  - [ ] Headers & Redirects
-  - [ ] Output Buffering
-  - [ ] Date & Time
-  - [ ] Regular Expressions
-  - [ ] Multibyte Strings
-  - [ ] PHP CLI
-  - [ ] PHP Configuration (php.ini)
+- [ ] **PHP বেসিক**
+  - [ ] বেসিক সিনট্যাক্স
+    - [ ] `<?php ?>` ট্যাগ
+    - [ ] `echo`, `print`, `var_dump`, `print_r`
+  - [ ] ভেরিয়েবল ও স্কোপ
+  - [ ] ডাটা টাইপ
+    - [ ] সংখ্যা (integer, float)
+    - [ ] স্ট্রিং, বুলিয়ান
+    - [ ] অ্যারে, অবজেক্ট
+    - [ ] NULL
+  - [ ] টাইপ কাস্টিং
+  - [ ] অ্যারে
+    - [ ] সূচীবদ্ধ অ্যারে
+    - [ ] অ্যাসোসিয়েটিভ অ্যারে
+    - [ ] মাল্টিডাইমেনশনাল অ্যারে
+  - [ ] কন্ডিশনাল স্টেটমেন্ট
+    - [ ] if/else
+    - [ ] switch
+    - [ ] match (PHP 8+)
+    - [ ] Null কোয়ালেসিং অপারেটর (??)
+  - [ ] লুপ
+    - [ ] for, while, do-while, foreach
+  - [ ] কনস্ট্যান্ট (`define()`)
 
-- [ ] **Security**
-  - [ ] SQL Injection
-  - [ ] XSS (Cross-Site Scripting)
-  - [ ] CSRF (Cross-Site Request Forgery)
-  - [ ] Password Hashing
-  - [ ] Data Validation & Sanitization
-  - [ ] Secure Session Handling
-  - [ ] HTTPS & SSL/TLS
-  - [ ] CORS (Cross-Origin Resource Sharing)
-  - [ ] Security Headers
+- [ ] **ফাংশন**
+  - [ ] ফাংশন ডিক্লেয়ারেশন
+  - [ ] প্যারামিটার ও রিটার্ন ভ্যালু
+  - [ ] ডিফল্ট প্যারামিটার
+  - [ ] নামযুক্ত আর্গুমেন্ট (PHP 8+)
+  - [ ] অ্যানোনিমাস ফাংশন
+  - [ ] অ্যারো ফাংশন (PHP 7.4+)
+  - [ ] কলব্যাক ফাংশন
+  - [ ] রিকার্শন
+  - [ ] ভ্যারিয়াডিক ফাংশন
 
-- [ ] **Databases & ORMs**
+- [ ] **ফাইল হ্যান্ডলিং**
+  - [ ] require, include
+  - [ ] ফাইল রিড/রাইট
+  - [ ] ফাইল পারমিশন
+  - [ ] JSON/CSV প্রসেসিং
+
+- [ ] **HTTP রিকুয়েস্ট হ্যান্ডলিং**
+  - [ ] GET/POST মেথড
+  - [ ] সুপারগ্লোবাল ভেরিয়েবল
+    - [ ] $_GET, $_POST, $_SERVER
+  - [ ] ফর্ম প্রসেসিং
+  - [ ] ফাইল আপলোড
+
+- [ ] **স্টেট ম্যানেজমেন্ট**
+  - [ ] কুকিজ (`setcookie()`)
+  - [ ] সেশন (`$_SESSION`)
+
+- [ ] **সিকিউরিটি**
+  - [ ] ইনপুট ভ্যালিডেশন
+  - [ ] XSS প্রিভেনশন
+  - [ ] SQL ইনজেকশন প্রতিরোধ
+  - [ ] CSRF টোকেন
+  - [ ] পাসওয়ার্ড হ্যাশিং
+
+- [ ] **ডাটাবেস**
+  - [ ] PDO (MySQL)
   - [ ] MySQLi
-  - [ ] PDO (PHP Data Objects)
-  - [ ] Prepared Statements
-  - [ ] Transactions
-  - [ ] ORMs
-    - [ ] Eloquent (Laravel)
-    - [ ] Doctrine
-    - [ ] Propel
+  - [ ] ডাটাবেস ট্রানজেকশন
+  - [ ] ORM (Eloquent)
 
-- [ ] **APIs**
-  - [ ] RESTful APIs
-  - [ ] JSON Handling (json_encode/json_decode)
-  - [ ] Authentication (JWT, OAuth)
-  - [ ] API Rate Limiting
-  - [ ] GraphQL (with PHP)
+- [ ] **অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং (OOP)**
+  - [ ] ক্লাস ও অবজেক্ট
+  - [ ] কনস্ট্রাক্টর/ডেস্ট্রাক্টর
+  - [ ] প্রোপার্টি ও মেথড
+  - [ ] অ্যাক্সেস মডিফায়ার (public/private/protected)
+  - [ ] ইনহেরিট্যান্স
+  - [ ] ইন্টারফেস
+  - [ ] ট্রেইট
+  - [ ] ম্যাজিক মেথড
 
-- [ ] **Testing**
-  - [ ] Unit Testing (PHPUnit)
-  - [ ] Test-Driven Development (TDD)
-  - [ ] Mocking
-  - [ ] Integration Testing
-
-- [ ] **Performance Optimization**
-  - [ ] OpCode Caching (OPcache)
-  - [ ] Profiling (Xdebug, Blackfire)
-  - [ ] Database Optimization
-  - [ ] Lazy Loading
-  - [ ] Caching Strategies
-    - [ ] Memcached
-    - [ ] Redis
-
-- [ ] **Frameworks**
+- [ ] **ফ্রেমওয়ার্ক ও টুলস**
   - [ ] Laravel
-  - [ ] Symfony
-  - [ ] CodeIgniter
-  - [ ] Laminas (Zend Framework)
-  - [ ] Slim
-  - [ ] Yii
-  - [ ] Phalcon
+  - [ ] Composer (প্যাকেজ ম্যানেজার)
+  - [ ] PHPUnit (টেস্টিং)
 
-- [ ] **DevOps & Deployment**
-  - [ ] Docker
-  - [ ] CI/CD Pipelines
-  - [ ] Server Management (Apache/Nginx)
-  - [ ] Cloud Deployment (AWS, Azure, GCP)
-  - [ ] Monitoring & Logging
+- [ ] **এডভান্সড PHP**
+  - [ ] পারফরম্যান্স অপ্টিমাইজেশন
+  - [ ] ক্যাশিং (Redis)
+  - [ ] API ডেভেলপমেন্ট
 
-- [ ] **Modern PHP Features**
-  - [ ] PHP 8.x Features
-    - [ ] Attributes
-    - [ ] Named Arguments
-    - [ ] Constructor Property Promotion
-    - [ ] Union Types
-    - [ ] Match Expression
-    - [ ] Fibers
-    - [ ] Readonly Properties
-    - [ ] Enums
-  - [ ] JIT Compilation
-  - [ ] FFI (Foreign Function Interface)
+- [ ] **ওয়েব সার্ভার**
+  - [ ] Apache
+  - [ ] Nginx
+  - [ ] PHP-FPM
