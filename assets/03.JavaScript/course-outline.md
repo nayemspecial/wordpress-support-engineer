@@ -1,0 +1,98 @@
+# JavaScript
+
+## What is JavaScript?
+- History of JavaScript
+- JavaScript Versions
+- How to run JavaScript?
+  - String
+    - undefined
+    - number
+    - biglist
+    - boolean
+    - null
+    - Symbol
+    - Primitive Types
+    - Type Conversion vs Operator
+    - Object Collections
+      - Set
+      - View Set
+      - JSON
+      - ObjectId
+      - Value Comparison Operators
+  - for statement
+  - do...while statement
+  - while statement
+  - Conditional Statements
+    - if...else
+    - Switch
+  - Expression and Operators
+    - Assignment Operators
+    - Composition Operators
+    - Arithmetic Operators
+    - Binsize Operators
+    - Logical Operators
+    - Biglist Operators
+    - String Operators
+    - Conditional Operators
+    - Common Operators
+    - Unary Operators
+    - Relational Operators
+  - setTimeout
+  - setInterval
+  - CommonJS
+  - ECMAScript Modules
+  - Introduction to JavaScript
+  - All About Variables
+    - Veritable Declarations
+    - Notating
+    - Variable Norming Rules
+    - Variable Scopes
+      - Block
+      - Function
+  - Prototyped Inheritance
+    - Object Prototype
+    - Object
+    - typeof operator
+    - Type Casting
+      - Data Structures
+      - Explicit Type Casting
+      - Indoneed Collections
+      - Typeof Arrays
+      - id..once(x)Equal
+      - listStringEqual
+      - SomeValueZero
+      - SomeValue
+  - Control Flow
+    - Ifc..to statement
+    - Ifc..of statement
+    - break / continue
+  - Exception Handling
+    - Error statement
+    - try / catch / finally
+    - Utilizing Error Objects
+  - Defining and Calling Functions
+    - Function
+      - Structure Data
+      - Logic and Handling
+    - Default Pattern
+    - Rest Pattern
+    - Recursion
+    - Lexical Scoping
+    - Closures
+      - In a method
+      - In a function
+      - using it alone
+      - In event harshers
+      - In arrow harshers
+    - Callbacks
+      - Callback Hell
+    - Premises
+    - async / await
+  - Classes
+  - Memory Management
+    - Memory Lifecycle
+    - Gartage Collection
+  - Debugging Issues
+    - Debugging Memory Lacks
+    - Debugging Performance
+  - Using Chrome Dev Tools
