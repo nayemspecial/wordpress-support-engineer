@@ -1,7 +1,11 @@
 ## ওয়ার্ডপ্রেসস সাপোর্ট ইঞ্জিনিয়ার কোর্স - CSS
-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/HTML/html-course-outline.md)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/parts/css/css-course-outline.md)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)]()
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/01.HTML/html-course-outline.md)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/02.CSS/css-course-outline.md)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/03.JavaScript/course-module.md)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/04.TailwindCSS/course-module.md)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/07.PHP/module2.md)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)]()
 ### লাইভ ক্লাস ২
 ### ০৬- ১০-২০২৩ - শুক্রবার - রাত ৯:৩০ PM
 - ইন্ট্রোডাকশন টু সিএসএস [ভিডিও](https://youtu.be/P-5VY7_c9Es)
