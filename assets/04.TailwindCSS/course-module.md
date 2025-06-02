@@ -12,8 +12,8 @@
 03. Live Class Three - About Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=w3_bmx6aDn4)
 04. Live Class Four - Service Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=n3_p-14mm0E)
 05. Live Class Five - Portfolio Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=pDe1a0A6hsc) 
-01. Live Class One
-01. Live Class One
+06. Live Class Six - Skills Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=bz92u5ThxZg)
+07. Live Class Seven - Testimonials Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=zQhK9OoKM34&t=22s)
 01. Live Class One
 01. Live Class One
 01. Live Class One
