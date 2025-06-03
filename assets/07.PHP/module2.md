@@ -6,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)]()
 
-## ক্লাস ০১ [ক্লাস ভিডিও](https://www.youtube.com/watch?v=4oPAtDaeRhY)
+- [ ] ক্লাস ০১ কন্টেন্ট এবং [ক্লাস ভিডিও](https://www.youtube.com/watch?v=4oPAtDaeRhY)
 - [ ] **PHP বেসিক**
   - [ ] PHP পরিচিতি
   - [ ] লোকাল সার্ভার সেটআপ 
@@ -37,7 +37,7 @@
     - [ ] অ্যারিথমেটিক অপারেটর ( `+`, `-`, `*`, `/`, `%` )
     - [ ] অ্যাসাইনমেন্ট অপারেটর ( `=`, `+=`, `-=`, `*=`, `/=`, `%=` )
 
-## ক্লাস ০২ [ক্লাস ভিডিও](https://www.youtube.com/watch?v=0Y1pZFNmXps)
+    - [ ] ক্লাস ০২ কন্টেন্ট এবং [ক্লাস ভিডিও](https://www.youtube.com/watch?v=0Y1pZFNmXps)
     - [ ] ভিজুয়াল স্টুডিও কোডে আউটপুট দেখা
     - [ ] কোড রানার সেটআপ
     - [ ] কম্প্যারিসন অপারেটর ( `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=` )
