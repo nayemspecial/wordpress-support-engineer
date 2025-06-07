@@ -14,10 +14,9 @@
 05. Live Class Five - Portfolio Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=pDe1a0A6hsc) 
 06. Live Class Six - Skills Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=bz92u5ThxZg)
 07. Live Class Seven - Testimonials Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=zQhK9OoKM34&t=22s)
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
+08. Live Class Eight - Blogs Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=RLsB21p6Zxk)
+09. Live Class Nine - Contact Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=gCFIc7VEoew&t=1681s)
+10. Live Class Ten - Footer Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=ltn6oK_V-z4)
 ## Responsive Design
 01. Live Class One
 01. Live Class One
