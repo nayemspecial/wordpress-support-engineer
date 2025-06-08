@@ -17,13 +17,13 @@
 08. Live Class Eight - Blogs Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=RLsB21p6Zxk)
 09. Live Class Nine - Contact Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=gCFIc7VEoew&t=1681s)
 10. Live Class Ten - Footer Section [ক্লাস ভিডিও](https://www.youtube.com/watch?v=ltn6oK_V-z4)
-## Responsive Design
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
-01. Live Class One
+## Responsive Pixel Perfect Design
+11. Live Class Eleven - [ক্লাস ভিডিও]()
+12. Live Class Tweelve - [ক্লাস ভিডিও]()
+13. Live Class Thirteen - [ক্লাস ভিডিও]()
+14. Live Class Fourteen - [ক্লাস ভিডিও]()
+15. Live Class Fifteen - [ক্লাস ভিডিও]()
+16. Live Class Sixteen - [ক্লাস ভিডিও]()
+17. Live Class Seventeen - [ক্লাস ভিডিও]()
+18. Live Class Eightteen - [ক্লাস ভিডিও]()
+19. Live Class Nineteen - [ক্লাস ভিডিও]()
