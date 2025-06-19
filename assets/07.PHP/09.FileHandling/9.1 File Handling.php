@@ -36,9 +36,9 @@ if(!is_dir($myFoler)){
     echo "$myFoler folder already exist.";
 }
 
-file_exists();
-is_readable();
-is_writable();
+// file_exists();
+// is_readable();
+// is_writable();
 
 $fileName = "D:/PRACTICE/wordpress-support-engineer/assets/07.PHP/09.FileHandling/test.txt";
 
