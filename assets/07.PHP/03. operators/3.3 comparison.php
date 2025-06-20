@@ -1,7 +1,7 @@
 <?php
     $n1 = 11;
     $n2 = "10";
-    /*
+    
     $equal = $n1 == $n2;
     echo $equal;
 
@@ -27,5 +27,5 @@
     $lessOrEqual = $n1 <= $n2;
     var_dump($lessOrEqual);
 
-    */
+    
 
