@@ -12,6 +12,7 @@ body {
     background-color: #FFFCF4;
     color: #171100;
     padding: 40px 20px;
+    font-size: 13px;
 }
 
 h1, h2, h3 {
@@ -19,7 +20,7 @@ h1, h2, h3 {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -30,7 +31,7 @@ h1, h2, h3 {
 
 .header h2 {
     color: #171100;
-    font-size: 28px;
+    font-size: 26px;
     margin-bottom: 10px;
 }
 
@@ -43,30 +44,49 @@ h1, h2, h3 {
 }
 
 .form-group {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.form-group.md-0 {
+    margin-bottom: 0px;
+    display: flex;
+}
+
+.form-group.md-0 label {
+    margin-right: 15px;
 }
 
 .form-group label {
     display: block;
     color: #171100;
     font-weight: 600;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 }
 
-.form-group input {
+.form-group label.inline {
+    display: inline;
+    margin-bottom: 0;
+}
+
+.form-group input, .form-group select, .form-group textarea {
     width: 100%;
-    padding: 12px 16px;
+    padding: 10px 16px;
     border: 1px solid #E2DFDA;
     border-radius: 6px;
     background-color: #FFFCF4;
-    font-size: 14px;
+    font-size: 13px;
+}
+
+.form-group input[type="radio"]{
+    width: auto;
+    margin-right: 5px;
 }
 
 .submit-btn {
     background-color: #171100;
     color: #FFF;
     border: none;
-    padding: 12px 24px;
+    padding: 10px 24px;
     border-radius: 25px;
     font-weight: 600;
     cursor: pointer;
@@ -87,14 +107,14 @@ h1, h2, h3 {
 }
 
 .data-table th {
-    background-color: #171100;
+    background-color: #444444;
     color: #FFFFFF;
     padding: 16px 20px;
     text-align: left;
 }
 
 .data-table td {
-    padding: 14px 20px;
+    padding: 10px 18px;
     border-bottom: 1px solid #E2DFDA;
     color: #5F5B53;
 }
@@ -105,4 +125,46 @@ h1, h2, h3 {
 
 .data-table tr:hover {
     background-color: #FFFCF4;
+}
+
+.cookie-box {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #FFFFFF;
+    border: 1px solid #E2DFDA;
+    border-radius: 12px;
+    padding: 20px 24px;
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.08);
+    max-width: 320px;
+    font-size: 14px;
+    color: #171100;
+    z-index: 9999;
+}
+
+.cookie-box p {
+    margin-bottom: 12px;
+}
+
+.cookie-box a {
+    color: #FFB900;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.cookie-btn {
+    background-color: #171100;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.cookie-btn:hover {
+    background-color: #FFB900;
+    color: #171100;
 }
