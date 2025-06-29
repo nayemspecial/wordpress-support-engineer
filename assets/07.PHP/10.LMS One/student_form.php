@@ -11,6 +11,37 @@
         <div class="header">
             <h2>Student Information</h2>
         </div>
+        <?php
+        // ফর্ম সাবমিশন প্রসেসিং
+        if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
+            $newStudent = [
+                'name' => htmlspecialchars($_POST['name']),
+                'email' => htmlspecialchars($_POST['email']),
+                'phone' => htmlspecialchars($_POST['phone'])
+            ];
+            
+            // ডিফল্ট ডাটার সাথে নতুন ডাটা যোগ
+            $students = [
+                ['name' => 'Student Name 1', 
+                'email' => 'student1@example.com', 
+                'phone' => '123-456-7890'],
+                ['name' => 'Student Name 2', 
+                'email' => 'student2@example.com', 
+                'phone' => '234-567-8901'],
+                $newStudent // নতুন সাবমিশন যোগ হচ্ছে
+            ];
+        } else {
+            // ডিফল্ট ডাটা
+            $students = [
+                ['name' => 'Student Name 1', 
+                'email' => 'student1@example.com', 
+                'phone' => '123-456-7890'],
+                ['name' => 'Student Name 2', 
+                'email' => 'student2@example.com', 
+                'phone' => '234-567-8901']
+            ];
+        }
+        ?>
 
         <div class="form-container">
             <form method="post" action="">
