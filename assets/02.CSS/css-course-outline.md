@@ -6,8 +6,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/nayemspecial/wordpress-support-engineer/blob/main/assets/07.PHP/module2.md)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)]()
-### লাইভ ক্লাস ২
-### ০৬- ১০-২০২৩ - শুক্রবার - রাত ৯:৩০ PM
+### CSS কোর্স আউটলাইন
 - ইন্ট্রোডাকশন টু সিএসএস [ভিডিও](https://youtu.be/P-5VY7_c9Es)
 - সিএসএস সিনট্যাক্স [ভিডিও](https://youtu.be/CG_FY7Ox15w)
 - বিভিন্নভাবে সিএসএস ফাইল তৈরি করা [ভিডিও](https://youtu.be/P9g5vjXNyQE)
@@ -43,8 +42,7 @@
 
 
 
-### লাইভ ক্লাস ৩
-### ০৭- ১০-২০২৩ - শনিবার - ১০:১৫ PM
+
 - ব্যাকগ্রাউন্ড প্রপার্টি [ভিডিও](https://youtu.be/LWDVR9cQAKA)
     - ব্যাকগ্রাউন্ড ইমেজ
     - ব্যাকগ্রাউন্ড রিপিট
@@ -94,8 +92,7 @@
   - অনলাইন থেকে বেসিক টেমপ্লেট দেখে ডিজাইন করার চেষ্টা করতে হবে।
 
 
-### লাইভ ক্লাস ৪
-### ০৮- ১০-২০২৩ - রবি বার - ১০:১৫ AM
+
 - ফুটার টপ সেকশন
 - সিএসএস  পজিশন
 - পজিশন স্টিকি  প্রোপার্টি
@@ -118,8 +115,7 @@
   - বিফোর এবং আফটার ইউজ করে ব্যাকগ্রাউন্ড ওভারলে প্রাক্টিস করতে হবে।
 
 
-### লাইভ ক্লাস ৫
-### ০৯-১০-২০২৩ - সোমবার - ১০:০০ AM
+
 
 - HTML5 এ কনভার্ট করা
 - হেডার ও ফুটার ইউজ করা
